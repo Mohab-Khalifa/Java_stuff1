@@ -37,16 +37,25 @@ public class Runner {
 		garage.addVehicle(car1);
 		car1.fixVehicle();
 		
-		Vehicle car2 = new Car("Land", 2, true, "White", 200, true, 4, "Lamborghini");
+		Vehicle car2 = new Car("Land", 2, true, "Blue", 200, true, 4, "Lamborghini");
 		garage.addVehicle(car2);
 		car2.fixVehicle();
 		
 		System.out.println(garage);
 		
 		Vehicle Heli1 = new Helicopter("Air", 4, false, "Silver", 250, true, 3, false);
+		garage.addVehicle(Heli1);
 		Vehicle Heli2 = new Helicopter("Air", 6, false, "Matt Black", 300, false, 4, true);
-		
+		garage.addVehicle(Heli2);
 		Vehicle Boat1 = new Boat("Water", 6, false, "Eggshell White", 100, true, 30, "Fishing Boat", true);
+		garage.addVehicle(Boat1);
+		
+		System.out.println(garage.getVehicle(1));
+		
+		
+		System.out.println(garage);
+		
+		garage.clearGarage();
 		
 		System.out.println(garage);
 	}
