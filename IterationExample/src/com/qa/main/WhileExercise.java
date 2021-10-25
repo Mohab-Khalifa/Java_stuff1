@@ -1,5 +1,7 @@
 package com.qa.main;
 
+import java.util.Random;
+
 public class WhileExercise {
 	
 	// Using a while loop start with a beginning total (300), subtract an amount of money 
@@ -25,5 +27,5 @@ public class WhileExercise {
 }
 
 // how to implement code below to subtract random amounts from the total?
-//Random random = new Random();
-//return random.nextInt(max - min) + min;
+// Random random = new Random();
+// return random.nextInt(max - min) + min;

@@ -8,13 +8,14 @@ public class Runner {
 //		WhileExercise.bankAccount();
 //		DoWhile.basicExample();
 //		DoWhileExercise.bankAccount();
-//		ForLoops.countToTen();
+//		ForLoops.countToTenT();
 //		ForLoops.countDownFromTen();
 //		ForLoops.countInFours();
 //		ForLoopsExercise.flowChartOne();
 //		ForLoopsExercise.flowChartTwo();
 //		ForLoopsExercise.changeMethod(102.67f, 200f);
-		ForLoopsExercise.flowChartDemo();
+//		ForLoopsExercise.flowChartDemo();
+		ForLoopsExercise.oneToTenTen();
 	}
 
 }

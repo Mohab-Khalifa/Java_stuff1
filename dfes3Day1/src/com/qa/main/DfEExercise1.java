@@ -6,7 +6,7 @@ public class DfEExercise1 {
 	
     public static void main(String[] args) {
     	
-        boolean amIHappy = false; // A boolean names amIHAppy is being delcared and assigned false
+        boolean amIHappy = false; // A boolean names amIHAppy is being declared and assigned false
        
         int weight = 20; // An integer named 'weight' is being declared and assigned value '20'
         String name = "Billy Bob"; // a string named 'name' is being declared and assigned 'Billy Bob'

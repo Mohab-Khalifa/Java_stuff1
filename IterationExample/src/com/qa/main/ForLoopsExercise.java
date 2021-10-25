@@ -27,7 +27,7 @@ public class ForLoopsExercise {
 		for(int i = 1; i <= 10; i++) {
 			int x = 0;
 			while (x < 10) {
-				System.out.println(i);
+				System.out.println(x);
 				x++;
 			}
 		}
