@@ -10,12 +10,12 @@ import com.qa.garage.Vehicle;
 //Garage Task
 
 // The task is to create a garage class with methods for the following:
-// - Adding Vehicles to garage ✅
+// - Adding Vehicles to garage 
 // - Removing vehicles 
 // - Updating vehicles
 // - Reading vehicle
 // - Removing all vehicles
-// - Running vehicle.fixVehicle() custom method ✅
+// - Running vehicle.fixVehicle() custom method 
 
 
 // Vehicles
